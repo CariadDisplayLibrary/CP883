@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: CP883.h
-Description: CP883 (VGA Code Page 883) font for DisplayCore
+Description: CP883 (VGA Code Page 883)
